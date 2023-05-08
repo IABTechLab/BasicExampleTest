@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "uid2-ios-plugin-google-ima",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.com:IABTechLab/uid2-ios-plugin-google-ima.git",
+      "state" : {
+        "revision" : "333c41e8ba6cc70c71ca0456e009201649c6065b",
+        "version" : "0.1.0"
+      }
+    },
+    {
+      "identity" : "uid2-ios-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/IABTechLab/uid2-ios-sdk.git",
+      "state" : {
+        "revision" : "6204cbc27ef3bd48065e1fbd355958a6f03e248c",
+        "version" : "0.2.0"
+      }
+    }
+  ],
+  "version" : 2
+}
